@@ -1,4 +1,4 @@
-# Sensecraft HMI Template
+# SenseCraft HMI Template
 
 一个具有现代设计感的多功能展示页面。灵感来源于红点设计奖作品，采用简约的设计语言。专为 800x480 分辨率优化的深黑色主题设计。
 
