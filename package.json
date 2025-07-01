@@ -1,0 +1,32 @@
+{
+  "name": "sensecraft-hmi-template",
+  "version": "1.0.0",
+  "description": "一个具有现代设计感的动态时间展示页面。灵感来源于红点设计奖作品，采用简约而富有动感的设计语言。",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["next.js", "time", "design", "animation"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.4",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "@types/react": "^18.2.27",
+    "@types/react-dom": "^18.2.12",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "^13.5.4"
+  }
+}
